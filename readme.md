@@ -34,6 +34,7 @@ The ICO is the UK’s independent authority set up to uphold information rights 
 - [Institute of Fundraising - get ready for GDPR](https://www.institute-of-fundraising.org.uk/guidance/research/get-ready-for-gdpr/)
 - [DSC - how will GDPR affect your charity](https://www.dsc.org.uk/content/will-gdpr-affect-charity-need-know/)
 - [ACF - GDPR resources [member-only]](http://www.acf.org.uk/news/gdpr-what-resources-are-available)
+- [Small Charities Coalition - GDPR](https://www.smallcharities.org.uk/785/)
 
 ## Others
 
