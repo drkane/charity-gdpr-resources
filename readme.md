@@ -1,6 +1,6 @@
 # GDPR resources for charities
 
-A list of resources for charities who want to see how the upcoming General Data Protection Regulation (GDPR) will impact them, and what they need to do.
+A list of resources for UK charities who want to see how the upcoming General Data Protection Regulation (GDPR) will impact them, and what they need to do.
 
 GDPR will take effect from 25 May 2018.
 
@@ -51,3 +51,6 @@ The ICO is the UK’s independent authority set up to uphold information rights 
 - [DSC GDPR Conference - 6 March 2018](https://www.dsc.org.uk/event/gdpr-conference/)
 - [NICVA - what should VCOs know about Open Data, Transparency and GDPR? - 9 March 2018](http://www.nicva.org/event/what-should-voluntary-and-community-organisations-know-about-open-data-transparency-and-gdpr)
 - [NCVO - getting ready for GDPR - 15 March 2018](https://www.ncvo.org.uk/training-and-events/events-listing/2172-getting-ready-for-gdpr-day-1-and-beyond?utm_source=Twitter&utm_content=NCVO)
+- [Small Charities Coalition - GDPR for small charities - 26 March 2018](https://www.eventbrite.co.uk/e/gdpr-for-small-charities-26-march-2018-tickets-42177129931)
+- [Small Charities Coalition - GDPR for small charities - 28 March 2018](https://www.eventbrite.co.uk/e/gdpr-for-small-charities-28-march-2018-tickets-42176927325)
+- [Small Charities Coalition - GDPR for small charities - 29 March 2018](https://www.eventbrite.co.uk/e/gdpr-for-small-charities-29-march-2018-tickets-42177046682)
