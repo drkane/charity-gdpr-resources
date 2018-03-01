@@ -45,6 +45,7 @@ The ICO is the UK’s independent authority set up to uphold information rights 
 - [Birketts - Fundraising and data protection laws are changing – is your charity ready?](https://www.birketts.co.uk/insights/legal-updates/fundraising-and-data-protection-laws-are-changing)
 - [Justgiving - 4 lessons for charities as we prepare for GDPR](http://blog.justgiving.com/4-lessons-for-charities-as-we-prepare-for-gdpr/)
 - [fundraising.co.uk - search for GDPR](http://fundraising.co.uk/?s=gdpr)
+- [IF - designing for new digital rights](https://newdigitalrights.projectsbyif.com/)
 
 ## Events
 
