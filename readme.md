@@ -35,6 +35,7 @@ The ICO is the UK’s independent authority set up to uphold information rights 
 - [DSC - how will GDPR affect your charity](https://www.dsc.org.uk/content/will-gdpr-affect-charity-need-know/)
 - [ACF - GDPR resources [member-only]](http://www.acf.org.uk/news/gdpr-what-resources-are-available)
 - [Small Charities Coalition - GDPR](https://www.smallcharities.org.uk/785/)
+- [Thrive - cultural sector GDPR resources](https://wewillthrive.co.uk/resources/blogs/gdpr-where-to-start)
 
 ## Others
 
