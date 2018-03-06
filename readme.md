@@ -25,6 +25,7 @@ The ICO is the UK’s independent authority set up to uphold information rights 
 - [OSCR - GDPR Overview](https://www.oscr.org.uk/blog/2017/november/20/gdpr-overview)
 - [Fundraising Regulator - changes to code based on GDPR](https://www.fundraisingregulator.org.uk/code-of-fundraising-practice/code-changes/code-changes-gdpr-post-may-25th-2018/)
 - [Charity Commission - CC news issue 58](https://www.gov.uk/government/publications/charity-commission-news-issue-58/charity-commission-news-issue-58#general-data-protection-regulation)
+- [Department for Education - privacy notices](https://www.gov.uk/government/publications/data-protection-and-privacy-privacy-notices)
 
 ## Voluntary sector umbrella bodies
 
