@@ -49,6 +49,7 @@ The ICO is the UK’s independent authority set up to uphold information rights 
 - [fundraising.co.uk - search for GDPR](http://fundraising.co.uk/?s=gdpr)
 - [IF - designing for new digital rights](https://newdigitalrights.projectsbyif.com/)
 - [Quakers - data safety for meetings](http://www.quaker.org.uk/our-organisation/support-for-meetings/data-safety)
+- [fundraising.co.uk - GDPR playlist](http://fundraising.co.uk/2018/03/05/gdpr-playlist-brings-music-fundraisers-ears/)
 
 ## Events
 
