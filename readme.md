@@ -33,6 +33,7 @@ The ICO is the UK’s independent authority set up to uphold information rights 
 - [KnowHowNonProfit (NCVO) - how to prepare for GDPR](https://knowhownonprofit.org/how-to/how-to-prepare-for-gdpr-and-data-protection-reform)
 - [CFG - GDPR a guide for charities](http://www.cfg.org.uk/resources/Publications/cfg-publications.aspx#GDPRguide)
 - [Institute of Fundraising - get ready for GDPR](https://www.institute-of-fundraising.org.uk/guidance/research/get-ready-for-gdpr/)
+- [Institute of Fundraising - guide to propsect research](https://www.institute-of-fundraising.org.uk/about-us/news/the-institute-of-fundraising-publish-guide-on-prospect-research/)
 - [DSC - how will GDPR affect your charity](https://www.dsc.org.uk/content/will-gdpr-affect-charity-need-know/)
 - [ACF - GDPR resources [member-only]](http://www.acf.org.uk/news/gdpr-what-resources-are-available)
 - [Small Charities Coalition - GDPR](https://www.smallcharities.org.uk/785/)
