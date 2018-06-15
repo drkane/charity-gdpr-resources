@@ -38,6 +38,7 @@ The ICO is the UK’s independent authority set up to uphold information rights 
 - [ACF - GDPR resources [member-only]](http://www.acf.org.uk/news/gdpr-what-resources-are-available)
 - [Small Charities Coalition - GDPR](https://www.smallcharities.org.uk/785/)
 - [Thrive - cultural sector GDPR resources](https://wewillthrive.co.uk/resources/blogs/gdpr-where-to-start)
+- [NICVA - Data Protection Toolkit](http://www.nicva.org/data-protection-toolkit)
 
 ## Others
 
@@ -55,7 +56,6 @@ The ICO is the UK’s independent authority set up to uphold information rights 
 ## Events
 
 - [DSC GDPR Conference - 6 March 2018](https://www.dsc.org.uk/event/gdpr-conference/)
-- [NICVA - what should VCOs know about Open Data, Transparency and GDPR? - 9 March 2018](http://www.nicva.org/event/what-should-voluntary-and-community-organisations-know-about-open-data-transparency-and-gdpr)
 - [NCVO - getting ready for GDPR - 15 March 2018](https://www.ncvo.org.uk/training-and-events/events-listing/2172-getting-ready-for-gdpr-day-1-and-beyond?utm_source=Twitter&utm_content=NCVO)
 - [Small Charities Coalition - GDPR for small charities - 26 March 2018](https://www.eventbrite.co.uk/e/gdpr-for-small-charities-26-march-2018-tickets-42177129931)
 - [Small Charities Coalition - GDPR for small charities - 28 March 2018](https://www.eventbrite.co.uk/e/gdpr-for-small-charities-28-march-2018-tickets-42176927325)
